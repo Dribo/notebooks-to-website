@@ -1,0 +1,4 @@
+src/prompts/*
+src/html/*.html
+src/jupyter/*.ipynb
+main.html
